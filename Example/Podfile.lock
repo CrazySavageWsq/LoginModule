@@ -1,0 +1,16 @@
+PODS:
+  - LoginModule (0.1.0)
+
+DEPENDENCIES:
+  - LoginModule (from `../`)
+
+EXTERNAL SOURCES:
+  LoginModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LoginModule: 79fbc846fe985996effe90b6bb254351e0ee94ae
+
+PODFILE CHECKSUM: 58ece7167d39282d4eada834b8366b69e9a3c939
+
+COCOAPODS: 1.11.2
